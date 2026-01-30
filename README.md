@@ -371,3 +371,5 @@ Kein offizielles Roborock-Projekt. Keine Garantie/Haftung.
 📷 Bald werden auch **Bilder** und ein **Schaltplan** hinzugefügt.
 
 💡 Ich freue mich über Feedback und kreative Ideen! Viel Spaß beim Ausprobieren.
+
+
