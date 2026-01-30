@@ -178,3 +178,8 @@ Wenn vertauscht: YAML invertieren.
 
 Projekt von Ronny / Rinno  
 Community Projekt – keine Garantie.
+
+
+<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_51" src="https://github.com/user-attachments/assets/1e673e7c-3124-4527-b7b7-eb38c55ccd7b" />
+<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_17" src="https://github.com/user-attachments/assets/6531ebef-7e31-4e87-a080-93935bd33377" />
+
