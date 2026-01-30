@@ -1,0 +1,78 @@
+esphome:
+  name: roborock-abwasser
+  friendly_name: Roborock Abwasser
+
+esp32:
+  board: esp32-c3-devkitm-1
+  framework:
+    type: esp-idf
+
+wifi:
+  ssid: "WLAN_NAME"
+  password: "WLAN_PASS"
+  reboot_timeout: 5min
+
+api:
+ota:
+logger:
+
+output:
+  - platform: gpio
+    pin: GPIO5
+    id: led_green_out
+  - platform: gpio
+    pin: GPIO6
+    id: led_red_out
+
+light:
+  - platform: binary
+    output: led_green_out
+    id: led_green
+    internal: true
+  - platform: binary
+    output: led_red_out
+    id: led_red
+    internal: true
+
+interval:
+  - interval: 1s
+    then:
+      - if:
+          condition:
+            wifi.connected
+          then:
+            - light.turn_off: led_red
+          else:
+            - light.toggle: led_green
+
+binary_sensor:
+  - platform: status
+    name: "Roborock Abwasser ESP"
+
+  - platform: gpio
+    id: abwasser_raw
+    pin:
+      number: GPIO4
+      mode: INPUT_PULLUP
+      inverted: true
+    internal: true
+    filters:
+      - delayed_on: 500ms
+      - delayed_off: 2s
+
+  - platform: template
+    name: "Roborock Abwasser voll"
+    device_class: problem
+    lambda: |-
+      return !id(abwasser_raw).state;
+
+text_sensor:
+  - platform: template
+    name: "Roborock Abwasser Status"
+    lambda: |-
+      if (id(abwasser_raw).state) return {"LEER"};
+      else return {"VOLL"};
+
+sensor:
+  - platform: wifi_signal
+    name: "Roborock WLAN"
