@@ -362,3 +362,12 @@ Disclaimer ⚠️
 
 Umbau/Abgriff erfolgt auf eigenes Risiko.  
 Kein offizielles Roborock-Projekt. Keine Garantie/Haftung.
+
+---
+
+## Weitere Arbeiten & Feedback
+
+🚧 **Hinweis:** Dieses Projekt ist noch in Arbeit! Ich werde es überarbeiten und neu aufzeichnen, sowie die Abläufe zur **Abwasser-Entleerung** und **Frischwasser-Zuführung** detailliert erklären.  
+📷 Bald werden auch **Bilder** und ein **Schaltplan** hinzugefügt.
+
+💡 Ich freue mich über Feedback und kreative Ideen! Viel Spaß beim Ausprobieren.
