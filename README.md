@@ -200,10 +200,8 @@ Danke fürs Reinschauen und viel Spaß beim Basteln 🚀
 
 
 <img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_17" src="https://github.com/user-attachments/assets/30071371-c5b0-459a-913c-519dd42175bc" />
-<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_51" src="https://github.com/user-attachments/assets/bfdc5e66-4e8f-4399-9ecf-981d15b0395b" />
 
 
 
 <img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_51" src="https://github.com/user-attachments/assets/02604dfc-a019-4227-a6ae-cba2613809c7" />
-<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_17" src="https://github.com/user-attachments/assets/b31841bd-73bc-4d36-98c3-9060b6d8633b" />
 
