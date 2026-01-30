@@ -373,7 +373,3 @@ Kein offizielles Roborock-Projekt. Keine Garantie/Haftung.
 💡 Ich freue mich über Feedback und kreative Ideen! Viel Spaß beim Ausprobieren.
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/afb26f64-b171-4a77-a5ff-ff086a597abe" />
-
-
-https://chatgpt.com/s/m_697c6c91d584819190ae516dc931eb01
