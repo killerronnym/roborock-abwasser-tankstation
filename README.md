@@ -345,33 +345,3 @@ action:
               entity_id: switch.DEINE_PUMPE  
 
 
-switch.DEINE_PUMPE ersetzt du durch deine echte Entität.
-
-⸻
-
-10) Häufige Probleme
-	• LEDs auf GPIO8/9 → Bootprobleme → besser GPIO5/6
-	• Rot/Orange (3.3V) vom Sensor an ESP angeschlossen → nicht machen
-	• VOLL/LEER falsch herum → im YAML ist das zentral:  
-return !id(abwasser_raw).state; → dort ggf. Logik drehen
-	• WLAN instabil → reboot_timeout sorgt dafür, dass der ESP wiederkommt
-
-⸻
-
-Disclaimer ⚠️
-
-Umbau/Abgriff erfolgt auf eigenes Risiko.  
-Kein offizielles Roborock-Projekt. Keine Garantie/Haftung.
-
----
-
-## Weitere Arbeiten & Feedback
-
-🚧 **Hinweis:** Dieses Projekt ist noch in Arbeit! Ich werde es überarbeiten und neu aufzeichnen, sowie die Abläufe zur **Abwasser-Entleerung** und **Frischwasser-Zuführung** detailliert erklären.  
-📷 Bald werden auch **Bilder** und ein **Schaltplan** hinzugefügt.
-
-💡 Ich freue mich über Feedback und kreative Ideen! Viel Spaß beim Ausprobieren.
-
-<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_17" src="https://github.com/user-attachments/assets/52b775a8-d906-4aae-8190-ad8bc8851e3a" />
-
-<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_51" src="https://github.com/user-attachments/assets/24b82a5e-6a9a-4a8d-bcfe-10666b9e4ee3" />
