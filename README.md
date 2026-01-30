@@ -372,4 +372,6 @@ Kein offizielles Roborock-Projekt. Keine Garantie/Haftung.
 
 💡 Ich freue mich über Feedback und kreative Ideen! Viel Spaß beim Ausprobieren.
 
+<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_17" src="https://github.com/user-attachments/assets/52b775a8-d906-4aae-8190-ad8bc8851e3a" />
 
+<img width="1536" height="1024" alt="ChatGPT Image 30  Jan  2026, 09_39_51" src="https://github.com/user-attachments/assets/24b82a5e-6a9a-4a8d-bcfe-10666b9e4ee3" />
